@@ -1,0 +1,17 @@
+function aux = fun(x)
+% aux=5*x.^3+x.^2-exp(1-2*x)+cos(x)+20; 
+%  aux=x.^3+3*x-1; 
+% aux= sin(2*x)+3*x+2;
+% aux = exp(x)+cos(x)-3;
+ aux= exp(x)+2*x^2-5;
+% aux=2*x^4+4*x^3+3*x^2-10*x;
+% aux= x*sin(x)+4;
+% aux= (x-3)^5*log(x);
+% aux=5*x^3+x^2-exp(1-2*x)+cos(x)+20;
+% aux=x.^3-3*x+52; 
+% aux =sin(x)-3/x-1;
+% aux=log(x)-x.^3+3;
+% aux=cos(x)-2*x;
+% aux=cos(x)-2/x+1;
+% aux=3*log(x+0.5);
+% aux= x - cos(x);

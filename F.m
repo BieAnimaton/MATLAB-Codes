@@ -1,0 +1,9 @@
+function aux = F(x)
+%  aux=(1-x.^3)/3; 
+% aux=1./(x.^2+3); 
+% aux= (-2-sin(2*x))/3;
+% aux = log(3-cos(x));
+% aux = log(5-2*x^2);
+% aux=sqrt(1+cos(x).^2);
+% aux=(x.^2).*exp(x.^3);
+aux=sqrt((5-exp(x))/2);
